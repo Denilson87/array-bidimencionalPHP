@@ -1,6 +1,5 @@
 <!Doctype html>
-<html>
-  
+<html>  
  
  <?php
    $mobilia=array(
