@@ -1,6 +1,7 @@
 <!Doctype html>
 <html>
-
+  
+ 
  <?php
    $mobilia=array(
        array("Televisao",40, 10, 20),
