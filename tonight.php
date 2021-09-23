@@ -15,7 +15,7 @@
          echo "<li>".$mobilia[$row][$col]."</li>"; 
          echo "</ul>"; 
      }  
- }
+  }
 
 ?>
 
