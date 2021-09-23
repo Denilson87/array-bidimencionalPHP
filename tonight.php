@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 
-<?php
+ <?php
    $mobilia=array(
        array("Televisao",40, 10, 20),
        array("Remote", 20, 20, 21),
