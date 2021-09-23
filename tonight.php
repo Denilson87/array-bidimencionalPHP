@@ -13,12 +13,8 @@
      echo "<ul>";
      for($col=0; $col<4; $col++){
          echo "<li>".$mobilia[$row][$col]."</li>"; 
-         echo "</ul>";
-         
-                                
-                                }
-     
-     
+         echo "</ul>"; 
+     }  
  }
 
 ?>
