@@ -8,6 +8,7 @@
        array("Sofa", 29, 21, 12),
        array("Computador", 20, 20, 20) 
    );
+ 
  for($row=0; $row<4; $row++){
      echo "<p><b>Esta e a linha numero: $row</b></p>";
      echo "<ul>";
